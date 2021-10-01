@@ -33,7 +33,7 @@ create a second node using the same command
 * Repeat the same step for the entering the accounts to seal for which accounts to prefund.
 ![prefund] (screenshots/prefund.png)
 
-![Accounts] (screenshots/accounts.png)
+![Accounts] (screenshots/Accounts.png)
 
 * Once you paste an address and hit enter, hit enter again on the blank `0x` address to continue the prompt.
 
