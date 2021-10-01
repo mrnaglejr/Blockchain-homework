@@ -101,7 +101,7 @@ You should see this success message:
 * Copy the first account address and paste it into the `To Address` field.
 * Enter the amount. press `send transaction`
 * You should receive a confirmation that the transaction went through
-![confirmation1](screenshots/confirmation.png)
+![confirmation1](screenshots/confirmation1.png)
 * Select TX Status in the banner. It will bring you into the transaction status. It will go from Pending to Completed.
 ![final-confirmation](screenshots/final-confirm.png)
 
