@@ -105,7 +105,3 @@ You should see this success message:
 * Select TX Status in the banner. It will bring you into the transaction status. It will go from Pending to Completed.
 ![final-confirmation](screenshots/final-confirm.png)
 
-
-
-  
-
